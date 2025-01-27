@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { Avatar } from '../Avatar'
 import { ThumbsUp, Trash } from 'phosphor-react'
 import { CommentProps } from './types.d';

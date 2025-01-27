@@ -5,7 +5,7 @@ export interface Author {
 }
 
 export interface Content {
-  type: any;
+  type: string;
   content: string;
 }
 
